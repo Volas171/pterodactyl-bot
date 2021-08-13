@@ -3,7 +3,7 @@
     "token": "",
     "owner": "",
     "embed": {
-        "footer": "made by doge#1234",
+        "footer": "pterodactyl-bot",
         "color": {
             "error": 13382185,
             "default": "#0CDF66"
